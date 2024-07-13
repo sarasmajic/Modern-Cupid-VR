@@ -1,0 +1,4 @@
+repository "PoletnaSola@sarcikamalcika@cloud"
+  path "/"
+    br "/main"
+    co "/main"

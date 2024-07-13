@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6057612781084078173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1020632056944570835}
+  - component: {fileID: 9104094908934080283}
+  m_Layer: 0
+  m_Name: GS_city
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1020632056944570835
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6057612781084078173}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9104094908934080283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6057612781084078173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24829c1d8397c84792fe8d7e8e4785f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sizex: 100
+  sizez: 100
+  building1: {fileID: 6668611100291183949, guid: f73ccefae17c58d468555ca51317a5c1, type: 3}
+  building2: {fileID: 2665682950384411672, guid: c23589a17a7657e4cb05e5386c83be89, type: 3}
+  building3: {fileID: 1031189879528723418, guid: 21faf837c83415548a818bee876ac54e, type: 3}
+  building4: {fileID: 5895610810377296285, guid: 3d6220ad95c7a4747b8ccf055ec1ddfd, type: 3}
+  building5: {fileID: 6206802584605930829, guid: 92183d4da53bb9048aa1b2af81e586db, type: 3}
+  building6: {fileID: 5555030965208653003, guid: 32f441cf8de157844b253a3cca15ef2d, type: 3}
+  building7: {fileID: 4154120978487410804, guid: a59c8556e3619ce459da153f9be6cb80, type: 3}
+  tower: {fileID: 6847935443428719730, guid: f5eb5605474c898469943b0774c70df1, type: 3}
+  person: {fileID: 8339473291470597807, guid: 0edd2ffe6a341734d8397e6f38efe4e8, type: 3}
+  tree: {fileID: 137650, guid: 826b6a0b570e8460990010fa615b5a2a, type: 3}
