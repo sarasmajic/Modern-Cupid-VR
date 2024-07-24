@@ -6,8 +6,9 @@ The Virtual Reality game "Modern Cupid" takes you into a city where you roleplay
 
 
 ## Authors
-@sarasmajic
-@gregora
+[Sara Smajic] (https://github.com/sarasmajic)
+[Gregor Alic] (https://github.com/gregora)
+
 
 ## Technologies used
 - Meta Quest 2/3
